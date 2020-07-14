@@ -1,0 +1,44 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "full_name": "Mahmoud Hemaid",
+            "phone_nuber": "+972594395246",
+            "bio": "This is my profile",
+            "city": "Gaza Strip",
+            "state": "Gaza",
+            "birthday": "2010-05-11T20:42:50.000Z",
+            "years_of_experiance": 3,
+            "craft_type": "Programmer",
+            "updated_at": "2020-04-11T20:42:50.000Z",
+            "created_at": "2020-04-11T20:42:50.000Z",
+            "longitude": 27.2038,
+            "latitude": 77.5011,
+            "role": "craftsman",
+            "active": true,
+            "verified": false,
+            "payment_token": null,
+            "user_rank": 4.2
+        },
+        {
+            "id": 2,
+            "full_name": "Waled Khader",
+            "phone_nuber": "+972598864886",
+            "bio": "This is my profile",
+            "city": "Gaza Strip",
+            "state": "Gaza",
+            "birthday": "2010-05-11T20:42:50.000Z",
+            "years_of_experiance": 3,
+            "craft_type": "Designer",
+            "updated_at": "2020-04-11T20:42:50.000Z",
+            "created_at": "2020-04-11T20:42:50.000Z",
+            "longitude": 27.2038,
+            "latitude": 77.5011,
+            "role": "craftsman",
+            "active": true,
+            "verified": false,
+            "payment_token": null,
+            "user_rank": 4.5
+        }
+    ]
+}
